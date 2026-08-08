@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#MachineLearning  ",
+      "color": {
+        "a": 1,
+        "rgb": 15624296
+      }
+    },
+    {
+      "query": "path:Library  ",
+      "color": {
+        "a": 1,
+        "rgb": 8555214
+      }
+    },
+    {
+      "query": "tag:people",
+      "color": {
+        "a": 1,
+        "rgb": 14836722
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2467960933778,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.375,
+  "repelStrength": 10,
+  "linkStrength": 0.6875,
+  "linkDistance": 250,
+  "scale": 0.26304187540278656,
+  "close": true
+}

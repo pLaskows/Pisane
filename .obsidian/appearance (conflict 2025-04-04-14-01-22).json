@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Nier",
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "accentColor": "#f5af5f",
+  "enabledCssSnippets": [
+    "Blockquote Styling",
+    "CthulhuSheet",
+    "canvas_styling",
+    "custom_fonts",
+    "table"
+  ]
+}

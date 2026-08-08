@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "2e3e9ba8e1881aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f51917e0545da48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "480f1cfd71374d3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Library/5_Library.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5_Library"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc7fb7745291d41b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6b83bfb8560847cc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3a5ce240ccfdae3b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0ee46ac311f1f624",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e98576a310483d15",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf98c87b0c647a8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfa988c8e1e340c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "5_Library/5_Library.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "05f608e4e31dbf82",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4679a909372b2b6e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f041201251832427",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "480f1cfd71374d3e",
+  "lastOpenFiles": [
+    "5_Library/Books/Inżynieria/AI/Uczenie maszynowe w Pythonie. Receptury.md",
+    "5_Library/Books/Inżynieria/AI/Sztuczna inteligencja od podstaw .md",
+    "5_Library/Books/Inżynieria/Elektronika/W labiryncie IoT.md",
+    "5_Library/Books/Inżynieria/Elektronika/Płytki drukowane (PCB). Nauka i projekty od podstaw.md",
+    "5_Library/Books/Inżynieria/Elektronika/Elektronika. Od analizy symbolicznej do obliczeń kwantowych.md",
+    "5_Library/Books/Inżynieria/Elektronika/Chłodenie procesorów PC.md",
+    "5_Library/5_Library.md",
+    "0_templates/Book Template.md",
+    "1_Zettelkasten/1_Quotes/Miłość.md",
+    "0_templates/Quote Template.md",
+    "0_templates/Zettelkasten Note Template.md",
+    "1_Zettelkasten/1_Quotes/Miłość1.md",
+    "5_Library/Books/Science Fiction/Wspomnienie o przeszłości Ziemi/Ciemny Las.md",
+    "Library/Library.md",
+    "Library/Books/Wspomnienie o przeszłości Ziemi/Ciemny Las.md",
+    "_Biblioteka.md",
+    "Library/Books/Wspomnienie o przeszłości Ziemi/Koniec Śmierci.md",
+    "Library/Ciemny Las.md",
+    "_Library.md",
+    "Library/Koniec Śmierci.md",
+    "Library/Sztuczna inteligencja od podstaw .md",
+    "Library/Problem Trzech Ciał .md",
+    "_templates/Book Template.md",
+    "Learning Curve/Machine Learning/Machine Learning Mind Map.canvas",
+    "Library/Covers/coverSztucznaInteligencjaOdPodstaw.webp",
+    "Problem Trzech Ciał.md",
+    "Library/Covers/coverTheDarkForest.jpg",
+    "Library/Covers/coverThreeBodyProblem.webp",
+    "Library/Covers/coverDeathsEnd.webp",
+    "Library/Covers",
+    "Library",
+    "_templates",
+    "Machine Learning/Machine Learning Mind Map.canvas",
+    "Machine Learning/Sztuczne sieci neuronowe.md",
+    "Sztuczne sieci neuronowe 1.md",
+    "Machine Learning"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "quickadd:choice:79c92147-096a-49ce-a09a-a108dc1ab2e6": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "quickadd:choice:07460e2f-5bdc-4fa1-be5d-bb0d73ca51c8": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-bold": [],
+  "quickadd:choice:af0c408d-be46-4712-983d-320b0a0dd66a": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "quickadd:choice:60af6d31-9f8b-4883-981b-99f28ba1a210": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "quickadd:choice:3e5720c6-af5e-44d4-a9b6-7b4d475345f9": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "quickadd:choice:ba309f16-019e-4ebe-9c44-16667b9afe8d": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ]
+}

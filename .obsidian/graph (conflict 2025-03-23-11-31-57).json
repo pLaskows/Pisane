@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Learning Curve\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15624296
+      }
+    },
+    {
+      "query": "path:Library  ",
+      "color": {
+        "a": 1,
+        "rgb": 8555214
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.375,
+  "repelStrength": 10,
+  "linkStrength": 0.6875,
+  "linkDistance": 250,
+  "scale": 0.49643244534166076,
+  "close": true
+}

@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1_Zettelkasten",
+  "attachmentFolderPath": "2_Files",
+  "propertiesInDocument": "visible"
+}

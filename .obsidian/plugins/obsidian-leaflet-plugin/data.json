@@ -1,0 +1,578 @@
+{
+  "mapMarkers": [
+    {
+      "id": "bretonniaMap",
+      "lastAccessed": 1743715424820,
+      "markers": [
+        {
+          "id": "ID_9bc819d83b2b",
+          "type": "default",
+          "loc": [
+            1913.1353062448532,
+            2636.0940802634495
+          ],
+          "link": "Karak Barn",
+          "layer": "%5B%5BbretonniaMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6261506128891804,
+            -0.4070500651584794
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "ulthuan_1",
+      "lastAccessed": 1743718153017,
+      "markers": [
+        {
+          "id": "ID_cb19581adbf8",
+          "type": "default",
+          "loc": [
+            47.5175411690377,
+            326.1172390616548
+          ],
+          "link": "Kowadło Vaula",
+          "layer": "%5B%5BulthuanMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4964745496742534,
+            -0.10243277848911654
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ae82ada5beb",
+          "type": "default",
+          "loc": [
+            348.1793963196052,
+            163.48063477734323
+          ],
+          "link": "Tor Anroc",
+          "layer": "%5B%5BulthuanMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24674122826839004,
+            -0.6304737828605155
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8888ac839f9",
+          "type": "default",
+          "loc": [
+            45.60838738653232,
+            339.6766601778604
+          ],
+          "layer": "%5B%5BulthuanMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "oldWorldMap",
+      "lastAccessed": 1744278661783,
+      "markers": [
+        {
+          "id": "ID_8868997a7999",
+          "type": "default",
+          "loc": [
+            4424,
+            3376
+          ],
+          "link": "Imperium",
+          "layer": "%5B%5BoldWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.19376562445501494,
+            -0.25391561688062386
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_495a39ea1929",
+          "type": "default",
+          "loc": [
+            5020.4581464244875,
+            4156.373659814527
+          ],
+          "link": "Kislev",
+          "layer": "%5B%5BoldWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2af95aebdb6a",
+          "type": "default",
+          "loc": [
+            3985.253818767382,
+            2233.043214987117
+          ],
+          "link": "Bretonnia",
+          "layer": "%5B%5BoldWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "6_Call_of_Warhammer/Lore/Stary Świat/Stary Świat.md"
+      ]
+    },
+    {
+      "id": "warhammerGeographyMap",
+      "lastAccessed": 1744278678857,
+      "markers": [
+        {
+          "id": "ID_7b4a994bf908",
+          "type": "default",
+          "loc": [
+            1375.6747035350172,
+            970.3930058422203
+          ],
+          "link": "Ulthuan",
+          "layer": "%5B%5BwarhammerWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3042938243468863,
+            -0.5824194341807863
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_592beb3b4b79",
+          "type": "default",
+          "loc": [
+            894.2837504820461,
+            786.7795434193075
+          ],
+          "link": "Lustria",
+          "layer": "%5B%5BwarhammerWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24671669596089918,
+            -0.3786129341583599
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18c929e80be8",
+          "type": "default",
+          "loc": [
+            1387.0912079725506,
+            467.12061283982246
+          ],
+          "link": "Nowy Świat",
+          "layer": "%5B%5BwarhammerWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.14647871208523752,
+            -0.5872528399545092
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6aeadb1bba29",
+          "type": "default",
+          "loc": [
+            1732.4368380358335,
+            1327.1551403430367
+          ],
+          "link": "Stary Świat",
+          "layer": "%5B%5BwarhammerWorldMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.41616655388618273,
+            -0.7334618281269405
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "6_Call_of_Warhammer/_Overview/_Overview.md"
+      ]
+    },
+    {
+      "id": "ulthuanMap",
+      "lastAccessed": 1744278683483,
+      "markers": [
+        {
+          "id": "ID_5818ea59095b",
+          "type": "default",
+          "loc": [
+            43.93670948221805,
+            325.44552211734265
+          ],
+          "link": "Kowadło Vaula",
+          "layer": "%5B%5BulthuanMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24559736989964728,
+            -0.039779699382714036
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b09bbca4819",
+          "type": "default",
+          "loc": [
+            342.62788512895366,
+            168.3717282537575
+          ],
+          "link": "Tor Anroc",
+          "layer": "%5B%5BulthuanMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "6_Call_of_Warhammer/Lore/Ulthuan/Ulthuan.md"
+      ]
+    },
+    {
+      "id": "empireMap",
+      "lastAccessed": 1755183715943,
+      "markers": [
+        {
+          "id": "ID_3b69bb79cbea",
+          "type": "City mark",
+          "loc": [
+            1153.2000732421875,
+            1246
+          ],
+          "link": "Wurtbad",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.4601181683899557,
+            -0.47791134407052943
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18e92818490b",
+          "type": "City mark",
+          "loc": [
+            2083.843684156756,
+            1600.8897526063438
+          ],
+          "link": "Freudenwald",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f82ba8aab9c8",
+          "type": "City mark",
+          "loc": [
+            1728.512541656455,
+            459.0339463910503
+          ],
+          "link": "Marienburg",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b09881bfb3a",
+          "type": "City mark",
+          "loc": [
+            1890.662102904916,
+            928.7140636737606
+          ],
+          "link": "Middenheim",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.34295201760478605,
+            -0.7835317459199818
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a9af8183a8a",
+          "type": "City mark",
+          "loc": [
+            1349.4000244140625,
+            659.6000061035156
+          ],
+          "link": "Altdorf",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2435745960500427,
+            -0.5592208969805481
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89a9dab8da2a",
+          "type": "City mark",
+          "loc": [
+            925.203135472117,
+            918.0678927821006
+          ],
+          "link": "Nuln",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3390206398752218,
+            -0.38342442414924033
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6ae9985a9be9",
+          "type": "City mark",
+          "loc": [
+            1512.6714502834611,
+            1260.5595419028841
+          ],
+          "link": "Talabheim",
+          "layer": "%5B%5BempireMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.46549466096856873,
+            -0.6268841484805061
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "6_Call_of_Warhammer/Lore/Stary Świat/Imperium/Imperium.md"
+      ]
+    },
+    {
+      "id": "geographyLustria",
+      "lastAccessed": 1761477877336,
+      "markers": [
+        {
+          "id": "ID_98699a59d96b",
+          "type": "default",
+          "loc": [
+            367.5858413845166,
+            302.1491386856041
+          ],
+          "layer": "%5B%5BlustriaMap.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "6_Call_of_Warhammer/Lore/Lustria/Lustria.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#b90e0e",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "City mark",
+      "iconName": "city",
+      "color": "#b300ad",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": 100,
+    "image": "[[ulthuanMap.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[ulthuanMap.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1,
+    "minZoom": -1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "ulthuan_1",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        925,
+        1324
+      ]
+    ],
+    "width": "95%",
+    "lat": 462.5,
+    "long": 662,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

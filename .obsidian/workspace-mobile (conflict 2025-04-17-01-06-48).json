@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "2e3e9ba8e1881aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba06a90e72d0f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a641594226a5582",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten/Tensors.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tensors"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc7fb7745291d41b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6b83bfb8560847cc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3a5ce240ccfdae3b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#Tensor",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0ee46ac311f1f624",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e98576a310483d15",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf98c87b0c647a8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfa988c8e1e340c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1_Zettelkasten/Basic Arithmetic Operators on Tensors.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "05f608e4e31dbf82",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4679a909372b2b6e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f041201251832427",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "quickadd:QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "9a641594226a5582",
+  "lastOpenFiles": [
+    "1_Zettelkasten/Data reproducibility in ML.md",
+    "1_Zettelkasten/Tensors.md",
+    "1_Zettelkasten/Data reproducibility in ML (conflict 2025-03-27-11-05-58).md",
+    "1_Zettelkasten/Tensor Viewing.md",
+    "1_Zettelkasten/Tensor Reshaping.md",
+    "1_Zettelkasten/Tensor Stacking.md",
+    "1_Zettelkasten/Tensor in_place Operations.md",
+    "1_Zettelkasten/Tensor Permuting.md",
+    "1_Zettelkasten/Tensor Indexing.md",
+    "1_Zettelkasten/Basic Arithmetic Operators on Tensors.md",
+    "2_Files/Ink/Writing/2025.3.26 - 15.43pm.writing",
+    "2_Files/Ink/Writing/2025.3.26 - 15.43pm (conflict 2025-03-26-23-16-39).writing",
+    "1_Zettelkasten/Tensors Overview.md",
+    "2_Files/Ink/Writing/2025.3.26 - 15.47pm.writing",
+    "2_Files/Ink/Writing/2025.3.26 - 15.45pm.writing",
+    "1_Zettelkasten/Machine Learning libraries.md",
+    "1_Zettelkasten/Machine Learning libraries (conflict 2025-03-26-15-04-26).md",
+    "1_Zettelkasten/Tensor Aggregation.md",
+    "1_Zettelkasten/Matrix Multiplication by single number.md",
+    "1_Zettelkasten/Tensor Operations.md",
+    "1_Zettelkasten/Matrix multiplication.md",
+    "1_Zettelkasten/Element wise matrix multiplication.md",
+    "1_Zettelkasten/1_Quotes/Miłość1.md",
+    "1_Zettelkasten/1_Quotes/Miłość.md",
+    "1_Zettelkasten/Pomysł RPG - Mofety .md",
+    "1_Zettelkasten/Sztuczna inteligencja Zagrożenia.md",
+    "0_templates/Zettelkasten Note Template.md",
+    "2_Files/Ink/Writing/2025.3.26 - 12.35pm.writing",
+    "2_Files/Ink/Writing/2025.3.26 - 12.08pm.writing",
+    "2_Files/Ink/Writing/2025.3.26 - 12.07pm.writing",
+    "2_Files/Ink/Drawing/2025.3.26 - 12.06pm.drawing",
+    "2_Files/Ink/Writing/2025.3.26 - 12.06pm.writing",
+    "2_Files/Ink/Writing/2025.3.26 - 12.01pm.writing",
+    "5_Library/Books/Tryzna. Antologia słowiańska.md",
+    "5_Library/Books/Inne Światy.md",
+    "5_Library/Books/Bestiariusz słowiański. Część pierwsza i druga.md",
+    "Learning Curve/Machine Learning/Machine Learning Mind Map.canvas",
+    "Library/Covers/coverSztucznaInteligencjaOdPodstaw.webp",
+    "Library/Covers/coverTheDarkForest.jpg",
+    "Library/Covers/coverThreeBodyProblem.webp",
+    "Library/Covers/coverDeathsEnd.webp",
+    "Machine Learning/Machine Learning Mind Map.canvas"
+  ]
+}

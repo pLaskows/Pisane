@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "2bda64f3a931b8b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "33aaa02186e1f67d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd188c8f9915d16a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Podgląd grafu"
+            }
+          },
+          {
+            "id": "7a44a335f39e8471",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Opowiadania/opowiadaniePierwsze.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "opowiadaniePierwsze"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6d068fe73ab7d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "69a04bdc890caea3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72036e9a25c35514",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Przeglądarka plików"
+            }
+          },
+          {
+            "id": "018efe0f74f4ae19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d39a11728f011cd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "cb8c27823f3b6cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3a5e3e2ed0dd99a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d6279dc2d074a51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6_Call_of_Warhammer/Lore/Stary Świat/Imperium/Imperium.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Imperium"
+            }
+          },
+          {
+            "id": "3f4b678a57580dd1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing Links"
+            }
+          },
+          {
+            "id": "aa5ede7de1e4167f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e0994e47f5aa843c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2b7966ab63c6a076",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "95113a1b20d0a510",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "dbdaca55bace5b15",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "89cece0af8d9365e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "f7a65c0eb1c156b1",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "abaea436d3eb1689",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "8a56c65b3a5d3f43",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Otwórz podgląd grafu": false,
+      "daily-notes:Otwórz dzisiejszy dziennik": false,
+      "bases:Stwórz nową bazę danych": false,
+      "switcher:Otwórz okno szybkiego wyboru": false,
+      "canvas:Stwórz nową tablicę": false,
+      "templates:Wstaw szablon": false,
+      "command-palette:Otwórz listę poleceń": false,
+      "publish:Opublikuj zmiany...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "7a44a335f39e8471",
+  "lastOpenFiles": [
+    "opowiadaniePierwsze.pdf",
+    "Opowiadania/opowiadaniePierwszeTekst.tex",
+    "Opowiadania/opowiadaniePierwsze.tex",
+    "Opowiadania/opowiadaniePierwsze.synctex.gz",
+    "Opowiadania/opowiadaniePierwsze.pdf",
+    "Opowiadania/opowiadaniePierwsze.log",
+    "Opowiadania/opowiadaniePierwsze.fls",
+    "Opowiadania/opowiadaniePierwsze.fdb_latexmk",
+    "Opowiadania/opowiadaniePierwsze.aux",
+    "Opowiadania",
+    "opowiadaniePierwsze.synctex.gz",
+    "Mystery Investigators/Alexander Reader.md",
+    "Assets/Maps/mapaBerlin.jpg",
+    "Mystery Investigators/Postać Kuby.md",
+    "Mystery Investigators/Postać Mateusza.md",
+    "Bez nazwy.md",
+    "assets/Maps/mapaBerlin.jpg",
+    "0_templates/Character Template.md",
+    "4_Warhammer/Opowiadania/Bez nazwy.md",
+    "3_Library/3_Library.md",
+    "6_Call_of_Warhammer/_Overview/_Overview.md",
+    "2_Files/Maps/oldWorldMap.jpg",
+    "2_Files/Maps/newWorldMap.jpg",
+    "2_Files/Maps/warhammerWorldMap.jpg",
+    "2_Files/Maps/bretonniaMap.jpg",
+    "6_Call_of_Warhammer/_Overview/The Call of Warhammer Lexicon.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/Magnum Inkwizytoris/Eliksir Czarnych Wód.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/Konrad Rupp.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/Magnum Inkwizytoris/Magnum Inkwizytoris.md",
+    "6_Call_of_Warhammer/Lore/Stary Świat/Imperium/Imperium.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/_assets/blackWaterPotion.png",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/Magnum Inkwizytoris/Bez nazwy.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/Bez nazwy.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Konrad Rupp/Witaj.md",
+    "1_Zettelkasten/Freudenwald.md",
+    "1_Zettelkasten/Middenheim.md",
+    "6_Call_of_Warhammer/Lore/Krasnoludzkie Królestwa/Lokacje/Lokacje.md",
+    "6_Call_of_Warhammer/Lore/Krasnoludzkie Królestwa/Krasnoludzkie Królestwa.md",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Ważne Postacie/Eldarion Silmaris.md",
+    "1_Zettelkasten/Tensor reshaping, stacking, squeezing and unsqueezing.md",
+    "6_Call_of_Warhammer/_Overview/Mechaniki/Umiejętności.md",
+    "6_Call_of_Warhammer/_Overview/Mechaniki/Tworzenie Postaci.md",
+    "6_Call_of_Warhammer/_Overview/Mechaniki/Testy.md",
+    "2_Files/Tables/tabelaModyfikatorObr.png",
+    "2_Files/Tables/tabelaWartości.png",
+    "2_Files/Maps/empireMap.jpg",
+    "0_templates/Character Sheet Template.canvas",
+    "6_Call_of_Warhammer/Player Characters/Canvas - Diero Falone.canvas",
+    "6_Call_of_Warhammer/Player Characters/Goran Jaeger/Goran Jaeger.canvas",
+    "6_Call_of_Warhammer/Player Characters/Diero.canvas",
+    "6_Call_of_Warhammer/Player Characters/Goran Jaeger/Canvas - Diero Falone.canvas",
+    "6_Call_of_Warhammer/Player Characters/Diero Falone/Canvas - Diero Falone.canvas",
+    "6_Learning_Curve/Machine Learning/Machine Learning Mind Map.canvas",
+    "Bez nazwy.canvas",
+    "Machine Learning/Machine Learning Mind Map.canvas",
+    "Machine Learning/Untitled.canvas"
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "2e3e9ba8e1881aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ba06a90e72d0f44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a641594226a5582",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Zettelkasten/Tensors.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Tensors"
+            }
+          },
+          {
+            "id": "911e8a3d2f1a67e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6_Call_of_Warhammer/Lore/Ulthuan/Ulthuan.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ulthuan"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cc7fb7745291d41b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6b83bfb8560847cc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3a5ce240ccfdae3b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "0ee46ac311f1f624",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e98576a310483d15",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "cf98c87b0c647a8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfa988c8e1e340c1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "6_Call_of_Warhammer/_Overview/_Overview.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "05f608e4e31dbf82",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4679a909372b2b6e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "f041201251832427",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "35ae8211bed4611c",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "quickadd:QuickAdd": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "publish:Publish changes...": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "911e8a3d2f1a67e0",
+  "lastOpenFiles": [
+    "6_Call_of_Warhammer/_Overview/_Overview.md",
+    "6_Call_of_Warhammer/Lore/Stary Świat/Stary Świat.md",
+    "6_Call_of_Warhammer/Bestiariusz/Lustria",
+    "6_Call_of_Warhammer/Bestiariusz/Sea",
+    "6_Call_of_Warhammer/Bestiariusz",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Lokacje/Kowadło Vaula.md",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Lokacje",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Kultura/Wierzenia/Vaul.md",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Kultura/Wierzenia",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Kultura",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Artefakty/Wdowiarz.md",
+    "6_Call_of_Warhammer/Lore/Ulthuan/Artefakty",
+    "6_Call_of_Warhammer/Lore/Rasy/Elfy/Elfy.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Elfy/Druchii.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Elfy/Asurowie.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Elfy/Asrai.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Niziołki.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Ludzie.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Krasnoludy.md",
+    "6_Call_of_Warhammer/Lore/Rasy/Elfy",
+    "6_Call_of_Warhammer/Lore/Rasy",
+    "6_Call_of_Warhammer/Lore/Krasnoludzkie Królestwa/Lokacje/Lokacje.md",
+    "6_Call_of_Warhammer/Lore/Krasnoludzkie Królestwa/Lokacje",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Goran Jeager/Goran Jeager.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Kaleb z Freudenwaldu.md",
+    "6_Call_of_Warhammer/Bohaterowie Graczy/Ozril Inavalur.md",
+    "6_Call_of_Warhammer/_Overview/Mechaniki/Tworzenie Postaci.md",
+    "6_Call_of_Warhammer/_Overview/Mechaniki/Przykładowe Zawody.md",
+    "6_Call_of_Warhammer/Player Characters/Kaleb z Freudenwaldu.md",
+    "6_Call_of_Warhammer/_Overview/The Call of Warhammer Lexicon.md",
+    "6_Call_of_Warhammer/Player Characters/Goran Jeager/Goran Jeager.md",
+    "6_Call_of_Warhammer/Regions/Lustria/Lustria.md",
+    "6_Call_of_Warhammer/Regions/New World/New World.md",
+    "6_Call_of_Warhammer/Regions/Old World/Old World.md",
+    "6_Call_of_Warhammer/Regions/Ulthuan/Ulthuan Map.md",
+    "6_Call_of_Warhammer/Player Characters/Goran Jaeger/Goran Jaeger.md",
+    "2_Files/Assets/stamp_speed.png",
+    "2_Files/Assets/stamp_proficiency.png",
+    "2_Files/Assets/stamp_maxhp.png",
+    "2_Files/Assets/stamp_level.png",
+    "2_Files/Assets/stamp_init.png",
+    "2_Files/Assets/stamp_ac.png",
+    "2_Files/Assets/header_risklevel.svg",
+    "2_Files/Assets/profile_image.png",
+    "2_Files/Assets/header_inventory.svg",
+    "2_Files/Assets/header_engagements.svg",
+    "Learning Curve/Machine Learning/Machine Learning Mind Map.canvas",
+    "Machine Learning/Machine Learning Mind Map.canvas"
+  ]
+}

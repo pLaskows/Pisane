@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Library  ",
+      "color": {
+        "a": 1,
+        "rgb": 8555214
+      }
+    },
+    {
+      "query": "tag:people",
+      "color": {
+        "a": 1,
+        "rgb": 14836722
+      }
+    },
+    {
+      "query": "tag:#learningNode  ",
+      "color": {
+        "a": 1,
+        "rgb": 15919879
+      }
+    },
+    {
+      "query": "tag:#MachineLearning  ",
+      "color": {
+        "a": 1,
+        "rgb": 15078451
+      }
+    },
+    {
+      "query": "tag:#Call_of_Warhammer  ",
+      "color": {
+        "a": 1,
+        "rgb": 15617047
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2467960933778,
+  "lineSizeMultiplier": 0.993229166666667,
+  "collapse-forces": true,
+  "centerStrength": 0.348958333333333,
+  "repelStrength": 10,
+  "linkStrength": 0.359375,
+  "linkDistance": 201,
+  "scale": 0.16348370567220682,
+  "close": true
+}
