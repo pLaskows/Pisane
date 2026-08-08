@@ -1,4 +1,9 @@
-\documentclass[12pt, twoside, , leqno, draft]{book}
+\documentclass[12pt, twoside, leqno, draft]{book}
+
+\title{Opowiadanie pierwsze}
+\author{Piotr Laskowski}
+\date{08.08.2026r. }
+
 \usepackage[
     a4paper,
     left = 3cm,
@@ -7,9 +12,22 @@
     bottom = 2.5cm,
     bindingoffset = 1cm
     ]{geometry}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,filecolor=blue,urlcolor=blue]{hyperref}
 %\usepackage{showframe}
 %\usepackage{lipsum}
 
 \begin{document}
+\maketitle
+\makeatletter\hypersetup{
+    pdftitle = {\@title},
+    pdfauthor = {\@author},
+    pdfsubject = {Opowiadanie pierwsze},
+    pdfkeywords = {opowiadanie, pierwsze, Piotr Laskowski},
+    colorlinks = true,
+    linkcolor = blue,
+    citecolor = blue,
+    filecolor = blue,
+    urlcolor = blue
+}
 \input{opowiadaniePierwszeTekst.tex}
 \end{document}
