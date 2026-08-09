@@ -167,7 +167,8 @@ INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tf
 OUTPUT opowiadaniePierwsze.pdf
 OUTPUT opowiadaniePierwsze.pdf
 INPUT C:\Users\lasko\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT .\opowiadaniePierwszeTekst.tex
-INPUT .\opowiadaniePierwszeTekst.tex
+INPUT .\KDM.tex
+INPUT .\KDM.tex
+INPUT C:\Users\lasko\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmromanslant12-regular.luc
 INPUT .\opowiadaniePierwsze.aux
 INPUT .\opowiadaniePierwsze.aux
