@@ -126,6 +126,17 @@ INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\reru
 INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\lualatex\luacode\luacode.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\lualatex\luacode\luacode.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifluatex.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\luatex\luatexbase\luatexbase.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\luatex\ctablestack\ctablestack.sty
+INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\luatex\ctablestack\ctablestack.sty
+INPUT KDM.tex
 INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-luatex.def
 INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-luatex.def
 INPUT C:\Users\lasko\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-luatex.lua
@@ -169,6 +180,5 @@ OUTPUT opowiadaniePierwsze.pdf
 INPUT C:\Users\lasko\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\KDM.tex
 INPUT .\KDM.tex
-INPUT C:\Users\lasko\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmromanslant12-regular.luc
 INPUT .\opowiadaniePierwsze.aux
 INPUT .\opowiadaniePierwsze.aux

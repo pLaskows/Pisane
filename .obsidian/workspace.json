@@ -18,21 +18,8 @@
               "icon": "lucide-git-fork",
               "title": "Podgląd grafu"
             }
-          },
-          {
-            "id": "7a44a335f39e8471",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Opowiadania/opowiadaniePierwsze.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "opowiadaniePierwsze"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,9 +248,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7a44a335f39e8471",
+  "active": "cd188c8f9915d16a",
   "lastOpenFiles": [
     "Opowiadania/opowiadaniePierwsze.synctex(busy)",
+    "texput.log",
+    "Opowiadania/opowiadaniePierwsze.synctex.gz",
+    "Opowiadania/opowiadaniePierwsze.pdf",
+    "Opowiadania/opowiadaniePierwsze.aux",
+    "Opowiadania/opowiadaniePierwsze.fdb_latexmk",
     "Opowiadania/opowiadaniePierwsze.log",
     "Opowiadania/opowiadaniePierwsze.fls",
     "Opowiadania/KDM.tex",
@@ -271,7 +263,6 @@
     "Agenci/NowyAgentPostac.md",
     "Agenci",
     "World/Characters/Potterowie.md",
-    "Opowiadania/opowiadaniePierwsze.pdf",
     "World/Characters/Dursleyowie.md",
     "World/Locations/Dolina_Godryka.md",
     "World/Locations/Privet_Drive.md",
@@ -281,9 +272,6 @@
     "World/Characters/Voldemort.md",
     "World/Characters/Harry_Potter.md",
     "World/Items",
-    "World/Locations",
-    "World/Characters",
-    "World",
     "World/Locations/Sala.md",
     "World/Characters/Major_Zalski.md",
     "World/Locations/Obrazy_z_zycia_wsi.md",
@@ -296,7 +284,6 @@
     "Opowiadania/Obsidian/Kawa_i_chleb.md",
     "Opowiadania/Obsidian/Lampa_naftowa.md",
     "Opowiadania/Obsidian/Obrazy_z_zycia_wsi.md",
-    "Opowiadania/Obsidian",
     "Mystery Investigators/Alexander Reader.md",
     "Assets/Maps/mapaBerlin.jpg",
     "Mystery Investigators/Postać Kuby.md",

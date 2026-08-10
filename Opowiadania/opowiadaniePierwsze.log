@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  9 AUG 2026 23:57
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  10 AUG 2026 21:31
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/opowiadaniePierwsze.tex
@@ -219,33 +219,73 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip51
 )
+(C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip52
+\f@nch@offset@elh=\skip53
+\f@nch@offset@erh=\skip54
+\f@nch@offset@olh=\skip55
+\f@nch@offset@orh=\skip56
+\f@nch@offset@elf=\skip57
+\f@nch@offset@erf=\skip58
+\f@nch@offset@olf=\skip59
+\f@nch@offset@orf=\skip60
+\f@nch@height=\skip61
+\f@nch@footalignment=\skip62
+\f@nch@widthL=\skip63
+\f@nch@widthC=\skip64
+\f@nch@widthR=\skip65
+\@temptokenb=\toks20
+)
+(C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/lualatex/luacode/luacode.sty
+Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
+
+(C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/luatex/luatexbase/luatexbase.
+sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/luatex/ctablestack/ctablestac
+k.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count297
+)
+\CatcodeTableOther=\catcodetable14
+\CatcodeTableExpl=\catcodetable15
+)
+\luacode@lines=\toks21
+\luacode@table@soft=\catcodetable16
+)
 (C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-lua
 tex.def
 File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count297
+\l__color_backend_stack_int=\count298
 Inserting `l3color' in `luaotfload.parse_color'.) (./opowiadaniePierwsze.aux)
 \openout1 = opowiadaniePierwsze.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -299,31 +339,31 @@ File: luatex.def 2025/09/29 v1.2f Graphics/color driver for luatex
 (C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count298
+\scratchcounter=\count299
 \scratchdimen=\dimen160
 \scratchbox=\box53
-\nofMPsegments=\count299
-\nofMParguments=\count300
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count301
+\nofMPsegments=\count300
+\nofMParguments=\count301
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count302
 \MPscratchDim=\dimen161
-\MPnumerator=\count302
-\makeMPintoPDFobject=\count303
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count303
+\makeMPintoPDFobject=\count304
+\everyMPtoPDFconversion=\toks23
 ))
 (C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/latex/graphics/mathcolor.ltx))
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 59.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 26.
+(Font)              <14.4> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 26.
+(Font)              <7> on input line 61.
  [1
 
 
 {C:/Users/lasko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
 Package hyperref Warning: Option `colorlinks' has already been used,
-(hyperref)                setting the option has no effect on input line 36.
+(hyperref)                setting the option has no effect on input line 71.
 
 (./KDM.tex) [2] (./opowiadaniePierwsze.aux)
  ***********
@@ -333,19 +373,19 @@ L3 programming layer <2025-11-06>
 )
 
 Here is how much of LuaTeX's memory you used:
- 8831 strings out of 476081
- 100000,552014 words of node,token memory allocated
- 411 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 49 glue_spec,
+ 9334 strings out of 476081
+ 125026,552014 words of node,token memory allocated
+ 421 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:91,3:30,4:18,5:198,6:16,7:2068,8:1,9:84,10:2,11:106
- 31178 multiletter control sequences out of 65536+600000
- 28 fonts using 1740119 bytes
- 72i,6n,75p,294b,362s stack positions out of 10000i,1000n,20000p,200000b,200000s
+   avail lists: 2:126,3:42,4:18,5:202,6:28,7:2156,8:1,9:122,10:3,11:106
+ 31656 multiletter control sequences out of 65536+600000
+ 27 fonts using 1608431 bytes
+ 72i,11n,75p,315b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12
 -regular.otf><c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public
 /lm/lmroman17-regular.otf>
-Output written on opowiadaniePierwsze.pdf (2 pages, 12572 bytes).
+Output written on opowiadaniePierwsze.pdf (2 pages, 13085 bytes).
 
 PDF statistics: 23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
