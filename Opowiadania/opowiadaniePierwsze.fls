@@ -180,5 +180,6 @@ OUTPUT opowiadaniePierwsze.pdf
 INPUT C:\Users\lasko\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT .\KDM.tex
 INPUT .\KDM.tex
+INPUT C:\Users\lasko\AppData\Local\MiKTeX\luatex-cache\generic\fonts\otl\lmroman12-bold.luc
 INPUT .\opowiadaniePierwsze.aux
 INPUT .\opowiadaniePierwsze.aux

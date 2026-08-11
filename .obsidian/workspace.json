@@ -18,8 +18,21 @@
               "icon": "lucide-git-fork",
               "title": "Podgląd grafu"
             }
+          },
+          {
+            "id": "de6b481b2eb3b62d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Opowiadania/opowiadaniePierwsze.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "opowiadaniePierwsze"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,16 +261,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "cd188c8f9915d16a",
+  "active": "de6b481b2eb3b62d",
   "lastOpenFiles": [
     "Opowiadania/opowiadaniePierwsze.synctex(busy)",
+    "Opowiadania/opowiadaniePierwsze.fdb_latexmk",
+    "Opowiadania/opowiadaniePierwsze.aux",
+    "Opowiadania/opowiadaniePierwsze.log",
+    "Opowiadania/opowiadaniePierwsze.fls",
     "texput.log",
     "Opowiadania/opowiadaniePierwsze.synctex.gz",
     "Opowiadania/opowiadaniePierwsze.pdf",
-    "Opowiadania/opowiadaniePierwsze.aux",
-    "Opowiadania/opowiadaniePierwsze.fdb_latexmk",
-    "Opowiadania/opowiadaniePierwsze.log",
-    "Opowiadania/opowiadaniePierwsze.fls",
     "Opowiadania/KDM.tex",
     "Agenci/charakter_postaci_szablon.md",
     "Agenci/NowyAgentPostac.md",
