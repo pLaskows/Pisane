@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  11 AUG 2026 23:29
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  11 AUG 2026 23:37
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/opowiadaniePierwsze.tex
@@ -365,13 +365,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 71.
 
-(./KDM.tex [2])
-Overfull \hbox (23.08688pt too wide) in paragraph at lines 36--73
-\TU/lmr/m/n/12 wygasić nasz Reg-u-la-tor. Będziesz po kolei odblokowywał in-t
-erkonek-tory, by zrównoważyć|
- []
-
-[3] (./opowiadaniePierwsze.aux)
+(./KDM.tex [2]) [3] (./opowiadaniePierwsze.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -384,7 +378,7 @@ Here is how much of LuaTeX's memory you used:
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:182,3:107,4:19,5:538,6:50,7:6639,8:1,9:191,10:7,11:390
+   avail lists: 2:182,3:107,4:19,5:538,6:50,7:6639,8:1,9:191,10:5,11:382
  31657 multiletter control sequences out of 65536+600000
  28 fonts using 1740119 bytes
  72i,11n,75p,1118b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -392,7 +386,7 @@ Here is how much of LuaTeX's memory you used:
 -bold.otf><c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm
 /lmroman12-regular.otf><c:/users/lasko/appdata/local/programs/miktex/fonts/opent
 ype/public/lm/lmroman17-regular.otf>
-Output written on opowiadaniePierwsze.pdf (3 pages, 25186 bytes).
+Output written on opowiadaniePierwsze.pdf (3 pages, 24739 bytes).
 
 PDF statistics: 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
