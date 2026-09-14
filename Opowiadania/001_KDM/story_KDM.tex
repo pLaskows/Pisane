@@ -1,0 +1,73 @@
+\documentclass[
+    12pt, 
+    twoside, 
+    leqno, 
+    draft
+    ]{book}
+
+\title{KDM}
+\author{Piotr Laskowski}
+\date{08.08.2026 r.}
+
+\usepackage[
+    a4paper,
+    left = 3cm,
+    right = 2cm,
+    top = 2.5cm,
+    bottom = 2.5cm,
+    bindingoffset = 1cm
+    ]{geometry}
+\usepackage[colorlinks=true,linkcolor=blue,citecolor=blue,filecolor=blue,urlcolor=blue]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{luacode}
+%\usepackage{showframe}
+%\usepackage{lipsum}
+
+\begin{luacode*}
+local file = "KDM.tex"
+local fh = io.open(file, "r")
+if fh then
+  local content = fh:read("*a")
+  fh:close()
+
+  content = content:gsub("%%.-\n", "\n")
+  content = content:gsub("\\[%a%*]+", " ")
+  content = content:gsub("%b{}", " ")
+  content = content:gsub("%$.-%$", " ")
+  content = content:gsub("%s+", " ")
+
+  local words = 0
+  for _ in content:gmatch("%S+") do
+    words = words + 1
+  end
+
+  local chars = #content:gsub("%s+", "")
+  tex.sprint(string.format("\\gdef\\wordcount{%s}", words))
+  tex.sprint(string.format("\\gdef\\charcount{%s}", chars))
+else
+  tex.sprint("\\gdef\\wordcount{0}")
+  tex.sprint("\\gdef\\charcount{0}")
+end
+\end{luacode*}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyfoot[L]{Słowa: \wordcount\quad Znaki: \charcount}
+\fancyfoot[R]{\thepage}
+
+\begin{document}
+\maketitle
+\makeatletter\hypersetup{
+    pdftitle = {\@title},
+    pdfauthor = {\@author},
+    pdfsubject = {Opowiadanie pierwsze},
+    pdfkeywords = {opowiadanie, pierwsze, Piotr Laskowski},
+    colorlinks = true,
+    linkcolor = blue,
+    citecolor = blue,
+    filecolor = blue,
+    urlcolor = blue
+}
+\input{text_KDM.tex}
+\end{document}

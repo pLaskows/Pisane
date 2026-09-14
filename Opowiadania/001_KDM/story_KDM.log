@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  19 AUG 2026 17:25
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  14 SEP 2026 17:40
  restricted system commands enabled.
  file:line:error style messages enabled.
-**c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/opowiadaniePierwsze.tex
-(c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/opowiadaniePierwsze.tex
+**c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/001_KDM/story_KDM.tex
+(c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/001_KDM/story_KDM.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -263,8 +263,8 @@ Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
 tex.def
 File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
 \l__color_backend_stack_int=\count298
-Inserting `l3color' in `luaotfload.parse_color'.) (./opowiadaniePierwsze.aux)
-\openout1 = opowiadaniePierwsze.aux
+Inserting `l3color' in `luaotfload.parse_color'.) (./story_KDM.aux)
+\openout1 = story_KDM.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
 LaTeX Font Info:    ... okay on input line 59.
@@ -365,7 +365,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 71.
 
-(./KDM.tex [2] [3]) [4] (./opowiadaniePierwsze.aux)
+(./text_KDM.tex [2] [3]) [4] (./story_KDM.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -378,15 +378,15 @@ Here is how much of LuaTeX's memory you used:
  421 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:186,3:102,4:22,5:600,6:51,7:7413,8:1,9:202,10:19,11:488
+   avail lists: 2:186,3:102,4:22,5:600,6:51,7:7401,8:1,9:202,10:19,11:488
  31657 multiletter control sequences out of 65536+600000
  28 fonts using 1740119 bytes
- 72i,11n,75p,823b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,75p,826b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12
 -bold.otf><c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm
 /lmroman12-regular.otf><c:/users/lasko/appdata/local/programs/miktex/fonts/opent
 ype/public/lm/lmroman17-regular.otf>
-Output written on opowiadaniePierwsze.pdf (4 pages, 30164 bytes).
+Output written on story_KDM.pdf (4 pages, 29978 bytes).
 
 PDF statistics: 36 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
