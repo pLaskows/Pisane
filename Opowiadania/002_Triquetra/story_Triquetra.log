@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  14 SEP 2026 17:39
+This is LuaHBTeX, Version 1.22.0 (MiKTeX 25.4) (format=lualatex 2026.1.11)  15 SEP 2026 00:20
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/002_Triquetra/story_Triquet
@@ -368,7 +368,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Package hyperref Warning: Option `colorlinks' has already been used,
 (hyperref)                setting the option has no effect on input line 71.
 
-(./text_Triquetra.tex) (./story_Triquetra.aux)
+(./text_Triquetra.tex
+Underfull \hbox (badness 1502) in paragraph at lines 18--19
+[]\TU/lmr/m/n/12 Swaromysł mil-czał chwilę, jakby za-s-tanaw-iał się, czy 
+w ogóle powinien
+ []
+
+[2] [3]) [4] (./story_Triquetra.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -376,21 +382,21 @@ L3 programming layer <2025-11-06>
 )
 
 Here is how much of LuaTeX's memory you used:
- 9317 strings out of 476081
+ 9334 strings out of 476081
  125026,552014 words of node,token memory allocated
- 416 words of node memory still in use:
-   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
+ 421 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 2:93,3:24,4:18,5:48,6:9,7:277,8:1,9:84,10:1,11:9
- 31639 multiletter control sequences out of 65536+600000
+   avail lists: 2:190,3:106,4:18,5:547,6:61,7:7212,8:1,9:208,10:11,11:252
+ 31656 multiletter control sequences out of 65536+600000
  27 fonts using 1608431 bytes
- 72i,6n,75p,325b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,75p,625b,364s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12
 -regular.otf><c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public
 /lm/lmroman17-regular.otf>
-Output written on story_Triquetra.pdf (1 page, 7727 bytes).
+Output written on story_Triquetra.pdf (4 pages, 23661 bytes).
 
-PDF statistics: 20 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 29 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 

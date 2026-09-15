@@ -24,7 +24,7 @@
 %\usepackage{lipsum}
 
 \begin{luacode*}
-local file = "KDM.tex"
+%local file = "file.tex"
 local fh = io.open(file, "r")
 if fh then
   local content = fh:read("*a")
