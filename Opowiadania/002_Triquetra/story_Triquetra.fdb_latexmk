@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1789679973.75927 "c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/002_Triquetra/story_Triquetra.tex" "story_Triquetra.pdf" "story_Triquetra" 1789679979.15433 0
+["lualatex"] 1789682445.63286 "c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/002_Triquetra/story_Triquetra.tex" "story_Triquetra.pdf" "story_Triquetra" 1789682449.37609 0
   "C:/Users/lasko/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1786695626 163260 f7138aa97b0a1dcae55100dabb7d9e7d ""
   "C:/Users/lasko/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman12-regular.luc" 1767992062 127680 6bbed0d0c1783f8a5f09d08f28ab733f ""
   "C:/Users/lasko/AppData/Local/MiKTeX/luatex-cache/generic/fonts/otl/lmroman17-regular.luc" 1767995034 128931 ee2a7f7bf447d1cb3aa9259966e5987a ""
@@ -111,12 +111,12 @@
   "C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload-unicode.lua" 1740607740 7918 4272855a25780b80472f3b58edd95e33 ""
   "C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/luaotfload.lua" 1740607740 13566 16df94dd2de231b2bca0aaa0190941fe ""
   "C:/Users/lasko/AppData/Local/Programs/MiKTeX/tex/luatex/luatexbase/luatexbase.sty" 1443949118 10170 b1a2248f43cab899e3fe36f676176865 ""
-  "c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/002_Triquetra/story_Triquetra.tex" 1789402642 1690 eb6fb05e4c1f410d6f7adab8968bc768 ""
+  "c:/Users/lasko/OneDrive/Vaults/Pisane/Opowiadania/002_Triquetra/story_Triquetra.tex" 1789682442 1690 eb6fb05e4c1f410d6f7adab8968bc768 ""
   "c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman12-regular.otf" 1256929440 110400 fcd786b88ef2ed507d57d8a4a31065e3 ""
   "c:/users/lasko/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman17-regular.otf" 1256929440 110248 0524e9fd4e00179f5d95f2bba63c8192 ""
-  "story_Triquetra.aux" 1789679978 162 f042405b684a8c860cba07045d113040 "lualatex"
-  "story_Triquetra.tex" 1789402642 1690 eb6fb05e4c1f410d6f7adab8968bc768 ""
-  "text_Triquetra.tex" 1789679972 16184 02306268071d386244b4c0c9eb209303 ""
+  "story_Triquetra.aux" 1789682448 162 f042405b684a8c860cba07045d113040 "lualatex"
+  "story_Triquetra.tex" 1789682442 1690 eb6fb05e4c1f410d6f7adab8968bc768 ""
+  "text_Triquetra.tex" 1789681340 17914 48763d698a891f58081cdc6fb039d47b ""
   (generated)
   "story_Triquetra.aux"
   "story_Triquetra.log"
